@@ -1,4 +1,5 @@
-Olá ! Meu nome é André Rosa e busco minha primeira oportunidade como desenvolvedor.
+Olá ! Meu nome é André Rosa.
+E-mail para contato andre.kof@hotmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
